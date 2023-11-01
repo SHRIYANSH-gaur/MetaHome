@@ -50,7 +50,6 @@ window.addEventListener("scroll", function () {
     : header.classList.remove("active");
 }); 
 
-
 function loadIFrame() {
   var iframe = document.createElement('iframe');
   iframe.src = "";
@@ -65,7 +64,8 @@ function loadIFrame() {
   iframe.setAttribute('mozallowfullscreen', true);
   iframe.setAttribute('webkitallowfullscreen', true);
   var image = document.getElementById('property1');
-  image.parentNode.replaceChild(iframe, image);
+  image.parentNode.insertBefore(iframe, image);
+  image.style.display = 'none';
 
   var uid = "6e7b60b74e864387b18c1bb41e606d45";
   var client = new Sketchfab( iframe );
@@ -87,4 +87,18 @@ function loadIFrame() {
                 }
             } );
 
+}
+
+function closeIFrame() {
+  var iframe = document.getElementById("api-frame");
+  var newImage = document.createElement('img');
+
+// Set attributes for the image
+  newImage.id = 'property1';
+  newImage.src = './assets/images/property-1.jpg';
+  newImage.alt = 'New Apartment Nice View';
+  newImage.className = 'w-100';
+  newImage.onclick = loadIFrame; 
+  iframe.parentNode.insertBefore(newImage, iframe);
+  iframe.style.display = 'none';
 }
