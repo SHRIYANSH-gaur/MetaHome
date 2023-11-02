@@ -464,9 +464,9 @@
 
                 <figure class="card-banner">
 
-                  <a href="#">
-                    <img src="./assets/images/property-2.jpg" alt="Modern Apartments" class="w-100">
-                  </a>
+                  <div class="iframe-container">
+                    <img id="property2" src="./assets/images/property-2.jpg" alt="Modern Apartments" class="w-100" onclick="loadIFrameProperty2()">
+                  </div>
 
                   <div class="card-badge orange">For Sales</div>
 
@@ -557,7 +557,7 @@
 
                   <!-- <div class="card-footer-actions">
 
-                    <button class="card-footer-actions-btn">
+                    <button class="card-footer-actions-btn" onclick="closeIFrameProperty2()">
                       <ion-icon name="resize-outline"></ion-icon>
                     </button>
 

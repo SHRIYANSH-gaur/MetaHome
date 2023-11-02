@@ -67,7 +67,7 @@ function loadIFrame() {
   image.parentNode.insertBefore(iframe, image);
   image.style.display = 'none';
 
-  var uid = "6e7b60b74e864387b18c1bb41e606d45";
+  var uid = "43d48aa333a14f38a44c11f47a646ac1"
   var client = new Sketchfab( iframe );
 
   client.init( uid, {
@@ -97,6 +97,59 @@ function closeIFrame() {
   newImage.id = 'property1';
   newImage.src = './assets/images/property-1.jpg';
   newImage.alt = 'New Apartment Nice View';
+  newImage.className = 'w-100';
+  newImage.onclick = loadIFrame; 
+  iframe.parentNode.insertBefore(newImage, iframe);
+  iframe.style.display = 'none';
+}
+
+function loadIFrameProperty2() {
+  var iframe = document.createElement('iframe');
+  iframe.src = "";
+  iframe.id = "api-frame2";
+  iframe.sandbox = "allow-scripts allow-same-origin allow-popups allow-forms";
+  iframe.allow = "autoplay; fullscreen; xr-spatial-tracking";
+  iframe.setAttribute('xr-spatial-tracking', true);
+  iframe.setAttribute('execution-while-out-of-viewport', true);
+  iframe.setAttribute('execution-while-not-rendered', true);
+  iframe.setAttribute('web-share', true);
+  iframe.setAttribute('allowfullscreen', true);
+  iframe.setAttribute('mozallowfullscreen', true);
+  iframe.setAttribute('webkitallowfullscreen', true);
+  var image = document.getElementById('property2');
+  image.parentNode.insertBefore(iframe, image);
+  image.style.display = 'none';
+
+  var uid = "6e7b60b74e864387b18c1bb41e606d45";
+  var client = new Sketchfab( iframe );
+
+  client.init( uid, {
+                success: function onSuccess( api ) {
+                    console.log( 'Success' );
+                    api.load();
+                    api.start();
+                    api.addEventListener( 'viewerready', function() {
+                        console.log( 'Viewer is ready' );
+                        // once the viewer is ready, show the iframe
+                        let $apiFrame = document.getElementById( 'api-frame' );
+                        $apiFrame.classList.remove( 'hidden' ); // Remove hidden class
+                    } );
+                },
+                error: function onError( callback ) {
+                    console.log( this.error );
+                }
+            } );
+}
+
+
+function closeIFrameProperty2() {
+  var iframe = document.getElementById("api-frame2");
+  var newImage = document.createElement('img');
+
+// Set attributes for the image
+  newImage.id = 'property2';
+  newImage.src = './assets/images/property-2.jpg';
+  newImage.alt = 'Modern Apartments';
   newImage.className = 'w-100';
   newImage.onclick = loadIFrame; 
   iframe.parentNode.insertBefore(newImage, iframe);
