@@ -3,7 +3,7 @@
 
 ## Track : House/Estate Hunting 🏘️:
 <p align="center">
-<img style="float=left;" src="data:image/jpeg;base64,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"/>
+
 </p>
 <br>
 
@@ -11,85 +11,9 @@
 To create an informative, immersive Virtual Reality platform for real estate agents that connects the online world
 with the real world. With this platform, people looking for houses can explore them
 virtually and get a feel for the layout and atmosphere.  
-<img align="right" src="https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/blob/master/img_gif/hospital.gif" width="45%"/>
 
 Background – sell more houses using immersive virtual 3d walkthroughs for better user experience.
 <br>
 <ul>
 <li><p>When you look for houses online, the pictures and information might not show what the houses are really like. This can make people miss out on good houses just because of the online listings. To fix this, we need a creative solution that uses Virtual Reality (VR) to make the online house-hunting experience better, helping real estate agents sell more houses. This challenge asked us participants to think about how we show houses online. The goal is to create a simple VR platform for real estate agents that connects the online world with the real world. With this platform, people looking for houses can explore them virtually and get a feel for the layout and atmosphere. By taking people on a virtual tour, this technology can change the way we see houses online, making it more interesting and informative. It can also use AI and ML to provide insights and suggestions while people explore houses. </p></li>
-
-<li><p>Efforts to maintain a balanced and healthy relationship with people who have panic or anxiety attacks begin with being thoroughly informed about them. Further, there are some tips and advice that people can follow to help a loved one dealing with panic or anxiety attacks.</p></li>
-  
-<li><p>An eating disorder is a mental illness depicting an unhealthy relationship with your food. This may be eating too much in one sitting or too little food. Anyone can develop an eating disorder. It doesn’t matter what your age, gender, cultural or racial background is.</p></li>
-</ul>
-
-## Screenshot
-<p align="center">
-<img style="float=left;" src="https://github.com/amandewatnitrr/codeutsava/blob/master/Codeutsava%205_IoT/CAD%20Model/Band%20Assembly%20ISO.png"/>
-</p>
-
-## A safe space for you ❤️
-
-<h3>Using our app :iphone:, you can keep a track of your emotions and keep a check on your mental health.</h3>
-
-<ul>
-<li> Mood, Stress and Deepression Tracker
-<li> Admin Panel - For Monitoring by Parents and Counsellor
-<li> Guided Journal
-<li> Notification Alert to your parents and counsellors
-<li> Preliminary Monitoring with Hardware
-</ul>
-
-
-
-## **Solution :**  	:key:
-<img align="left" style="float=left;" src="https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/blob/master/img_gif/bb0cc783196fa9b2119864ff90eb5702.gif" width="53%"/>
-i-MHM is an ML/IoT based Real-Time Mental Health Monitoring and Consultation System.<br><br>
-
-The IoT system connects to the cloud that lets the authenticated person keep a real-time check on some basic parameters like ECG, body posture etc. Using Bio-Sensors and Microprocessor that transmits the data to Firebase  for storage in the database and henceforth is accessible by the authenticated person(Parents and Counsellor).<br><br>
-
-The app offers people better access to healthcare support beyond their bounds of convenience and connects them to doctors, specialists and healthcare experts on a digital platform, which provides them access to an online expert without a physical visit. For counsellors and parents, it includes a feature to view-track the medical record of the pupil regularly and efficiently.
-
-## Product :
-<ul>
-<li>IoT hardware setup - For Performing Preliminary tests for Deepression and Stress Detection <a href="https://github.com/ayushganguli1769/codeutsava/tree/master/Codeutsava%205_IoT"><img alt="IoT" width="60px" src="https://img.shields.io/badge/IoT-003E54?style=flat-square&logo=SmartThings&logoColor=white" />
-</a></li>
-<li>App - For Realtime Stat monitoring and Notifying Parents and Counsellor about pupils condition</li>
-</ul>
-
-## Tech Stack be used :
-![Python](https://img.shields.io/badge/Python-9FEF00?style=flat-square&logo=Python&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![CAD](https://img.shields.io/badge/CAD-721412?style=flat-square&logo=Prisma&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![React](https://img.shields.io/badge/React-FF4154?style=flat-square&logo=React&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![AfterEffect](https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe&logoColor=black)
-
-## Team Members - Domains :family_man_boy_boy:
-<img align="right" src="https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/blob/master/img_gif/team.png" width="35%"/>
-
-<ul>
-<li>Aryan Sarkar- 4th Year (Information Technology)<br>  
-College : National Institute of Technolgy Raipur  <br>
-Domain : Frontend Developer</li>
-<li>Aman Kumar Dewangan - 4th Year (Electrical Engineering)  <br>
-College : National Institute of Technolgy Raipur  <br>
-Domain : IoT Developer</li>
-<li>Ayush Ganguly - 4th Year (Information Technology)  <br>
-College : National Institute of Technolgy Raipur  <br>
-Domain : Backend Developer</li>
-<li>Aman Verma - 4th Year (Electronics Engineering)<br>
-College : National Institute of Technolgy Raipur  <br>
-Domain : ML/AI Enthusiast and Researcher</li>
-<li>Parimal - 3rd Year (Electronics Engineering)<br>
-College : National Institute of Technolgy Raipur  <br>
-Domain :  ML/AI Enthusiast</li>
-<li>Rohan Verma - 3rd Year (Metallurgy and Material Science)<br>
-College : National Institute of Technolgy Raipur  <br>
-  Domain :  Backend Developer</li>
 </ul>
